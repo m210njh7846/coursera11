@@ -1,0 +1,99 @@
+
+.navbar-toggler-icon{
+    display: inline-block;
+}
+
+h1{
+    margin-bottom: 20px; text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5rem;font-weight: bold;
+  }
+  .rew{
+    width:100%;
+  }
+  .col-lg-3{
+     float: left;width: 30%; background-color: gray;
+     margin: 12px;
+    
+  }
+  
+  .h2-1{
+  
+    width: 120px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Helvetica;
+    color: black; position: relative; margin-right: 10px; text-align: center;
+  }
+  .h2-2{
+    
+    width: 90px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Helvetica;
+    color:black; position: relative; margin-right: 10px;
+  }
+  .h2-3{
+    width: 90px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Helvetica;
+    color: black; position: relative; margin-right: 10px;
+  }
+  @media (max-width: 992px) {
+    .col-lg-1, .col-lg-2, .col-lg-3{
+      float: left;
+   
+    }
+    .col-lg-1 {
+        width: 30%;
+      }
+      .col-lg-2 {
+        width: 30%;
+      }
+      .col-lg-3 {
+        width: 30%;
+      }
+}
+@media (max-width: 768px) {
+    .col-lg-1, .col-lg-2, .col-lg-3{
+      float: left;
+   
+    }
+    .col-lg-1 {
+        width: 40%;
+      }
+      .col-lg-2 {
+        width: 40%;
+      }
+      .col-lg-3 {
+        width: 45%;
+      }
+      .col-lg-4 {
+        width: 33.33%;
+      }
+      .col-lg-5 {
+        width: 41.66%;
+      }
+      .col-lg-6 {
+        width: 50%;
+      }
+      .col-lg-7 {
+        width: 58.33%;
+      }
+      .col-lg-8 {
+        width: 66.66%;
+      }
+      .col-lg-9 {
+        width: 74.99%;
+      }
+      .col-lg-10 {
+        width: 83.33%;
+      }
+      .col-lg-11 {
+        width: 91.66%;
+      }
+      .col-lg-12 {
+        width: 100%;
+      }
+     }
